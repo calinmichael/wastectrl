@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wastectrl/static/css/main.d39c3391.css",
+    "main.js": "/wastectrl/static/js/main.b4acf22d.js",
+    "static/media/ctrlqual.png": "/wastectrl/static/media/ctrlqual.9eaecc155573085229ea.png",
+    "static/media/cart_icon.jpg": "/wastectrl/static/media/cart_icon.d4c9ae7b4e10656893dd.jpg",
+    "static/media/logo1.jpeg": "/wastectrl/static/media/logo1.e283625fd7808826b669.jpeg",
+    "index.html": "/wastectrl/index.html",
+    "main.d39c3391.css.map": "/wastectrl/static/css/main.d39c3391.css.map",
+    "main.b4acf22d.js.map": "/wastectrl/static/js/main.b4acf22d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d39c3391.css",
+    "static/js/main.b4acf22d.js"
+  ]
+}
